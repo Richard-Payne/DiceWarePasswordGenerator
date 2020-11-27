@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {},
+  "projects": {
+    "/home/richard/projects/DiceWarePasswordGenerator/DiceWareConsole/DiceWareConsole.csproj": {
+      "restore": {
+        "projectUniqueName": "/home/richard/projects/DiceWarePasswordGenerator/DiceWareConsole/DiceWareConsole.csproj",
+        "projectName": "DiceWareConsole",
+        "projectPath": "/home/richard/projects/DiceWarePasswordGenerator/DiceWareConsole/DiceWareConsole.csproj",
+        "frameworks": {
+          "net40-client": {
+            "projectReferences": {
+              "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj": {
+                "projectPath": "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40-client": {}
+      }
+    },
+    "/home/richard/projects/DiceWarePasswordGenerator/DiceWareGUI/DiceWareGUI.csproj": {
+      "restore": {
+        "projectUniqueName": "/home/richard/projects/DiceWarePasswordGenerator/DiceWareGUI/DiceWareGUI.csproj",
+        "projectName": "DiceWareGUI",
+        "projectPath": "/home/richard/projects/DiceWarePasswordGenerator/DiceWareGUI/DiceWareGUI.csproj",
+        "frameworks": {
+          "net40-client": {
+            "projectReferences": {
+              "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj": {
+                "projectPath": "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40-client": {}
+      }
+    },
+    "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj": {
+      "restore": {
+        "projectUniqueName": "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj",
+        "projectName": "DicewareLib",
+        "projectPath": "/home/richard/projects/DiceWarePasswordGenerator/DicewareLib/DicewareLib.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

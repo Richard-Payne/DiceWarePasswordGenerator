@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FSharp.Core" version="5.0.*" />
+    <PackageReference Include="ICSharpCode.Decompiler" Version="6.2.1.6137" />
+    <ProjectReference Include="../DicewareLib/DicewareLib.fsproj" />
+    <!-- <Reference Include="DicewarePasswordGenerator.dll">
+      <HintPath>../DicewareLib/bin/Debug/net5.0/DicewareLib.dll</HintPath>
+    </Reference> -->
+  </ItemGroup>
+</Project>
